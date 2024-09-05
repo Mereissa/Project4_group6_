@@ -35,3 +35,4 @@ Expected Outcomes:
 Understanding Cost Structure: Provide a clear picture of how much of the burger’s final price is attributable to its ingredients versus other cost factors.
 Regional Insights: Offer insights into how burger prices and ingredient costs vary by region, helping to identify regional pricing trends.
 Practical Implications: Provide actionable insights for restaurant owners, consumers, and industry analysts on the factors influencing burger pricing.
+Group roles: Akeem Anderson: Clean data Mereissa Henrie: slides Drew Middeton: visualizations Andrew: analysis and conculsion
